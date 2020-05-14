@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/sdkits/ExamineX/_apis/build/status/SDKits.ExamineX.Source?branchName=master)](https://dev.azure.com/sdkits/ExamineX/_build/latest?definitionId=11&branchName=master)
+![Build Status](https://dev.azure.com/sdkits/ExamineX/_apis/build/status/SDKits.ExamineX.Source?branchName=master)
 
 ![Azure DevOps tests](https://img.shields.io/azure-devops/tests/sdkits/ExamineX/1)
 
