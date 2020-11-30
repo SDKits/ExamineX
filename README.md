@@ -2,11 +2,12 @@
 
 ![Azure DevOps tests](https://img.shields.io/azure-devops/tests/sdkits/ExamineX/1)
 
-This is the issue tracker for [ExamineX](https://examinex.online).
+_This is the issue tracker for [ExamineX](https://examinex.online)._
 
-ExamineX documentation can be found here: https://examinex.online
-
-ExamineX licenses can be purchased here: https://sdkits.com/examinex-azure
+* ExamineX documentation can be found here: https://examinex.online
+* See [release page](https://github.com/SDKits/ExamineX/releases) for releases and change logs
+* See the [roadmap](https://github.com/SDKits/ExamineX/projects/1) for upcoming features and ideas
+* ExamineX licenses can be purchased here: https://sdkits.com/examinex-azure
 
 # Azure Search for Umbraco
 
