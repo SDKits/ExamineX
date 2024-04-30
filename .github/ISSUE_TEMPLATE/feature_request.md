@@ -13,5 +13,8 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 
+**License ID**
+Your ExamineX license Id (found in your license file) if you are running a licensed version.
+
 **Additional context**
 Add any other context or screenshots about the feature request here.
