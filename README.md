@@ -9,7 +9,7 @@ _This is the issue tracker for [ExamineX](https://examinex.online)._
 
 # Azure Search for Umbraco
 
-ExamineX is a product to effortlessly integrate [Azure Search](https://azure.microsoft.com/en-au/services/search/) or [Elastic Search](https://examinex.online/2024/02/15/elastic-search-support) with [Umbraco](https://umbraco.com) all while using the same Examine APIs you know and love.
+ExamineX is a product to effortlessly integrate [Azure Search](https://azure.microsoft.com/en-au/services/search/) or [Elastic Search](https://examinex.online/2024/02/15/elastic-search-support) with [Umbraco](https://umbraco.com) all while using the same [Examine](https://shazwazza.github.io/Examine/) APIs you know and love.
 
 Tired of Lucene file locks? Startup delays when scaling out? Indexes out of sync? Downtime from index rebuilding? ... All of this is solved with ExamineX.
 
