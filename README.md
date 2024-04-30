@@ -1,5 +1,3 @@
-![Build Status](https://dev.azure.com/sdkits/ExamineX/_apis/build/status/SDKits.ExamineX.Source?branchName=master)
-
 ![Azure DevOps tests](https://img.shields.io/azure-devops/tests/sdkits/ExamineX/1)
 
 _This is the issue tracker for [ExamineX](https://examinex.online)._
